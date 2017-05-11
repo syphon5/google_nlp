@@ -5,7 +5,9 @@
 #library(devtools)
 #devtools::install_github("MarkEdmondson1234/googleLanguageR")
 #install.packages("dplyr")
-#####################################
+######################################
+
+#Go here to learn how to create Google service account credentials: https://cloud.google.com/natural-language/docs/common/auth
 
 #Load the necessary libraries (googleLanguageR for the Google NLP, dplyr for binding)
 library(googleLanguageR)
