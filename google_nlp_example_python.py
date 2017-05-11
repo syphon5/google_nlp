@@ -8,6 +8,8 @@
 #Run this command once installed: gcloud auth application-default login
 ####################
 
+#Go here to learn how to create Google service account credentials: https://cloud.google.com/natural-language/docs/common/auth
+
 #Import the necessary packages:
 from google.cloud import language
 import pandas as pd
